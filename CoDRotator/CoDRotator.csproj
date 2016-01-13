@@ -146,6 +146,7 @@
     <Content Include="CORE_RL_zlib_.dll">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
+    <Content Include="DB\Script.sql" />
     <Content Include="ImageMagickNET.dll" />
     <Content Include="iwixdds.dll">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
